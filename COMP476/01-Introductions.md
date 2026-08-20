@@ -101,4 +101,4 @@ The course builds up the network stack from the physical layer upward, answering
 *Notes generated from: "Introduction" (COMP476/467) lecture slides.*
 *Reading assigned: Sections 1.5, 1.6 (scan rest of Ch.1) of the course textbook.*
 
-**Related**: [Protocol Layers Notes →](../02-ProtocolLayers.md)
+**Related**: [Protocol Layers Notes →](./02-ProtocolLayers.md)
