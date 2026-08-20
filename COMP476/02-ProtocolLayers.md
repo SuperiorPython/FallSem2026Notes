@@ -242,4 +242,4 @@ Physical layer:
 *Notes generated from: "Protocol Layers" lecture slides.*
 *Reading assigned: Sections 2.1 and 2.4 of the course textbook.*
 
-**Related**: [← Introduction Notes](../01-Introduction/README.md)
+**Related**: [← Introduction Notes](./01-Introduction.md)
